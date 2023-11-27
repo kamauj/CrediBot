@@ -1,0 +1,14 @@
+{
+    "name": "slack-bot",
+    "version": "1.0.0",
+    "description": "A Slack bot that retrieves user information and checks if a specific field is filled.",
+    "main": "slack-bot.js",
+    "scripts": {
+      "start": "index.js"
+    },
+    "dependencies": {
+      "@slack/bolt": "^3.3.1"
+    }
+   
+  }
+  
